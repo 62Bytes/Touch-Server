@@ -5,14 +5,14 @@ And then we can control the Windows Pc using the mobile to Do stuffs and Play so
 
 This is a Repository created to manage the Version and track the issues in `Touch-Server`
 
-For Details and to report Issues related to The Android App you can visit [Touch-Client](<https://github.com/ViGEm/ViGEmBus/releases>)
+For Details and to report Issues related to The Android App you can visit [Touch-Client](<https://github.com/62Bytes/Touch-Client>)
 
 
 ## Current Stage of Server : ALPHA
 The Server is currently in alpha, So if you find any issue or a bug related to `Touch-Server`, I request you to report it
 
-You can report issues at [Issues tracker](<https://github.com/ViGEm/ViGEmBus/releases>),
-So that we could track and fix it, and Improve the project.
+You can report issues at [Issues tracker](<../../issues>),
+So that we could track and fix it based on its severity.
 
 
 ## Features
@@ -30,8 +30,7 @@ So that we could track and fix it, and Improve the project.
 
 
 ## Server Installation
-
-1. Download the Touch-Server zip from here
+1. Download the Touch-Server zip from [Releases](<../../releases>)
 2. Extract the zip file
 3. Move the Extracted Folder to the path you wanted
 4. That's it, Installation is Done.
@@ -43,21 +42,24 @@ Run the **Touch-Server.exe** in the Folder to Start the Server, You can create a
 
 
 ## How to Connect
-1. Launch the Server just Double-Click the **Touch-Server.exe**
+1. Launch the Server just Double-Click the **TouchServer.exe**
 2. Press `S` to Start the server, If not started
 3. Then on the Mobile install the App from Playstore, If not installed
 4. Bring the both(Pc and Mobile) into same Wi-fi Network
-5. Open the App and **Scan**, You'll see your Pc Server listed click it and connect
+5. Open the App and **Scan**, You'll see your Pc Server listed, click it and connect
 6. Now both the **Devices are Successfully Connected**
 
+Watch [this video](https://youtube.com) to see how to install, connect, and for indepth explanation
+
+
 ## Warning and More
-1. Make sure Ip address in Server(Pc) and Client(Mobile) is the same
-2. **Run as Admin** when you want to control (software/exe) with admin permission
-3. You can edit settings in file **Setting.Conf** in Application folder
-4. The data transfer between your Mobile and Pc is not encrypted, 
+1. While connecting make sure Ip address in Server(Pc) and Client(Mobile) is the same
+2. In order to use Xbox or in Some Games(to use Xbox Joysticks) install ViGme in the Pc from downloaded zip
+3. **Run as Admin** when you want to control (software/exe) with admin permission
+4. You can edit settings in file **Setting.Conf** in Application folder
+5. The data transfer between your Mobile and Pc is not encrypted, 
 So always use this application in a trustworthy Wi-fi network.
 
 ## License
-
 `Touch-Server` is available under the MIT license. See the [LICENSE](/LICENSE) file for more info.
 
