@@ -8,8 +8,8 @@ This is a Repository created to manage the Version and track the issues in `Touc
 For Details and to report Issues related to The Android App you can visit [Touch-Client](<https://github.com/62Bytes/Touch-Client>)
 
 
-## Current Stage of Server : ALPHA
-The Server is currently in alpha, So if you find any issue or a bug related to `Touch-Server`, I request you to report it
+## Current Stage of Server : BETA
+The Server is currently in beta, So if you find any issue or a bug related to `Touch-Server`, I request you to report it
 
 You can report issues at [Issues tracker](<../../issues>),
 So that we could track and fix it based on its severity.
@@ -49,7 +49,7 @@ Run the **Touch-Server.exe** in the Folder to Start the Server, You can create a
 5. Open the App and **Scan**, You'll see your Pc Server listed, click it and connect
 6. Now both the **Devices are Successfully Connected**
 
-Watch [this video](https://youtube.com) to see how to install, connect, and for indepth explanation
+Watch [this video](https://www.youtube.com/watch?v=rHt9pUe--MQ) to see how to install, connect, and for indepth explanation
 
 
 ## Warning and More
@@ -57,7 +57,8 @@ Watch [this video](https://youtube.com) to see how to install, connect, and for 
 2. In order to use Xbox or in Some Games(to use Xbox Joysticks) install ViGme in the Pc from downloaded zip
 3. **Run as Admin** when you want to control (software/exe) with admin permission
 4. You can edit settings in file **Setting.Conf** in Application folder
-5. The data transfer between your Mobile and Pc is not encrypted, 
+5. Press a key in keyboard, if your terminal screen blanks out.
+6. The data transfer between your Mobile and Pc is not encrypted, 
 So always use this application in a trustworthy Wi-fi network.
 
 ## License
